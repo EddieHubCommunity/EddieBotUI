@@ -36,6 +36,8 @@ Open [http://localhost:8000](http://localhost:8000) to see it! :tada:
 
 ## License
 
+[MIT](./LICENSE)
+
 ## Code of Conduct
 
 Check out our [CoC](./CODE_OF_CONDUCT.md)!
