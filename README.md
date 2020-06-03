@@ -17,3 +17,5 @@ npm install
 ## Contributing
 
 ## License
+
+## Code of Conduct
