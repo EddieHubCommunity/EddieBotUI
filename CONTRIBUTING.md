@@ -12,6 +12,8 @@ If you're a developer looking to contribute, but you're not sure where to begin,
 
 After that, if you're looking for something a little more challenging to sink your teeth into, there's a broader [help wanted](https://github.com/EddieJaoudeCommunity/EddieBotUI/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) label encompassing issues which need some love.
 
+Please, take a look [here](https://www.conventionalcommits.org/en/v1.0.0/) before commit. We follow Conventional Commits guidelines to keep our commits constistent.
+
 If you have a straightforward bug fix or improvement, feel free to contribute it in a [Pull Request](https://github.com/EddieJaoudeCommunity/EddieBotUI/pulls).
 
 If you have an idea for a new feature, please start by [searching the issues](https://github.com/EddieJaoudeCommunity/EddieBotUI/issues) to check that the feature has not already been suggested and then suggest it by [opening a new issue](https://github.com/EddieJaoudeCommunity/EddieBotUI/issues/new), as adding new features to EddieBotUI first requires some analysis around the design and spec.
