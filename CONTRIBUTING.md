@@ -22,7 +22,7 @@ If you have an idea for a new feature, please start by [searching the issues](ht
 
 If you're not a developer there are still plenty of ways that you can help. We always need help with:
 
-- Helping our EddieJaoudeCommunity on the [chat](https://discord.com/invite/jZQs6Wu)
+- Helping our **Eddie Jaoude Community** on the [chat](https://discord.com/invite/jZQs6Wu)
 - Improving the [documentation](https://github.com/EddieJaoudeCommunity/EddieBotUI/tree/develop/docs) and writing tutorials
 - Testing and quality assurance
-- Promoting EddieJaoudeCommunity to others by blogging, vlogging, code streaming, talking etc.
+- Promoting **Eddie Jaoude Community** to others by blogging, vlogging, code streaming, talking etc.
