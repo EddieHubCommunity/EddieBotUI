@@ -42,8 +42,6 @@ npm install
 
 ## Running the tests
 
-Run
-
 ```bash
 npm run test
 ```
