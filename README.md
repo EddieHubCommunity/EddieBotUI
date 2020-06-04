@@ -1,6 +1,6 @@
 # EddieBotUI
 
-EddieBotUI is the front end application that shows Eddie Joaoude Discord Community's public stats.
+EddieBotUI is the front end application that shows **Eddie Jaoude** Discord Community's public stats.
 
 ## Summary
 
