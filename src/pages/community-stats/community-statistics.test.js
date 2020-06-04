@@ -6,10 +6,10 @@ import CommunityStatisticsPage from "./community-statistics.component";
 
 test("renders Community Statistics title", () => {
   const { getByText } = render(
-    <MemoryRouter initialEntries={["/"]}>
+    <MemoryRouter>
       <CommunityStatisticsPage />
     </MemoryRouter>
   );
-  const linkElement = getByText(/Community Statistics/i);
-  expect(linkElement).toBeInTheDocument();
+  const titleElement = getByText(/Community Statistics/i);
+  expect(titleElement).toBeInTheDocument();
 });

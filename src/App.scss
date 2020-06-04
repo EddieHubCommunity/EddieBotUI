@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 20px 60px;
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  body {
+    padding: 20px 30px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  body {
+    padding: 20px 30px;
+  }
+}

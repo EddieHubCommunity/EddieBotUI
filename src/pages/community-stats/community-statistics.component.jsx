@@ -4,22 +4,13 @@ import "./community-statistics.styles.scss";
 
 const CommunityStatisticsPage = () => {
   return (
-    <div className="community-stats-page">
+    <div className="community-statistics-page">
       <h1 className="title">Community Statistics</h1>
-      <div className="statistics-container">
-        <div className="statistic-block">
-          <h1>Messages</h1>
-          <span>123</span>
-        </div>
-        <div className="statistic-block">
-          <h1>Messages</h1>
-          <span>123</span>
-        </div>
-        <div className="statistic-block">
-          <h1>Messages</h1>
-          <span>123</span>
-        </div>
-      </div>
+      <ul>
+        <li>Messages: 123</li>
+        <li>Users: 123</li>
+        <li>Reactions: 123</li>
+      </ul>
     </div>
   );
 };
