@@ -1,71 +1,26 @@
-# Contributing
+# Contributing to EddieBotUI
 
-## Create an issue
+For **help**, **support**, and **questions** please use our [community chat](https://discord.com/invite/jZQs6Wu) 🚑.
 
-Issues are very valuable to this project.
+---
 
-- Ideas are a valuable source of contributions others can make
-- Problems show where this project is lacking
-- With a question you show where contributors can improve the user
-  experience
+## Where to Start
 
-Thank you for creating them.
+Learn [how to contribute code on Github](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940).
 
-## Fork the project
+If you're a developer looking to contribute, but you're not sure where to begin, check out the [good first issue](https://github.com/EddieJaoudeCommunity/EddieBotUI/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) label on Github, which contains small tasks that have been specifically flagged as being friendly to new contributors.
 
-Make a copy of this repository https://github.com/EddieJaoudeCommunity/EddieBotUI/fork
+After that, if you're looking for something a little more challenging to sink your teeth into, there's a broader [help wanted](https://github.com/EddieJaoudeCommunity/EddieBotUI/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) label encompassing issues which need some love.
 
-## Create a branch for your work
+If you have a straightforward bug fix or improvement, feel free to contribute it in a [Pull Request](https://github.com/EddieJaoudeCommunity/EddieBotUI/pulls).
 
-Clone your copy the project and create a branch - do not push code into master branch!
+If you have an idea for a new feature, please start by [searching the issues](https://github.com/EddieJaoudeCommunity/EddieBotUI/issues) to check that the feature has not already been suggested and then suggest it by [opening a new issue](https://github.com/EddieJaoudeCommunity/EddieBotUI/issues/new), as adding new features to EddieBotUI first requires some analysis around the design and spec.
 
-Creating branches, use the convention `YOUR_USERNAME-ISSUE_ID`.
+## Other ways to help
 
-## Create a pull request
+If you're not a developer there are still plenty of ways that you can help. We always need help with:
 
-Pull requests are, a great way to get your ideas into this repository.
-
-When deciding if I merge in a pull request I look at the following
-things:
-
-### Does it state intent
-
-You should be clear which problem you're trying to solve with your
-contribution.
-
-For example:
-
-> Add link to code of conduct in README.md
-
-Doesn't tell me anything about why you're doing that
-
-> Add link to code of conduct in README.md because users don't always
-> look in the CONTRIBUTING.md
-
-Tells me the problem that you have found, and the pull request shows me
-the action you have taken to solve it.
-
-### Is it of good quality
-
-- There are no spelling mistakes
-- It reads well
-- For english language contributions: Has a good score on
-  [Grammarly](grammarly.com) or [Hemingway
-  App](http://www.hemingwayapp.com/)
-
-### Does it move this repository closer to my vision for the repository
-
-The aim of this repository is:
-
-- To provide a README.md and assorted documents anyone can copy and
-  paste, into their project
-- The content is usable by someone who hasn't written something like
-  this before
-- Foster a culture of respect and gratitude in the open source
-  community.
-
-### Does it follow the contributor covenant
-
-This repository has a [code of conduct](CODE_OF_CONDUCT.md), This
-repository has a code of conduct, I will remove things that do not
-respect it.
+- Helping our EddieJaoudeCommunity on the [chat](https://discord.com/invite/jZQs6Wu)
+- Improving the [documentation](https://github.com/EddieJaoudeCommunity/EddieBotUI/tree/develop/docs) and writing tutorials
+- Testing and quality assurance
+- Promoting EddieJaoudeCommunity to others by blogging, vlogging, code streaming, talking etc.
