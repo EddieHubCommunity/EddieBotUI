@@ -1,0 +1,28 @@
+.ui.list .item.user-message {
+  display: flex;
+  padding: 5px;
+  transition: border-width 0.2s linear;
+
+  // SUI override
+  img.image+.content {
+    width: 100%;
+  }
+  .text-reactions-wrapper {
+    display: flex;
+
+    span {
+      margin-right: 10px;
+    }
+    .reactions {
+      margin-left: auto;
+      padding: 10px;
+      background-color: #aff9ff;
+      border-radius: 10px;
+      border: 1px solid black;
+    }
+  }
+
+  &:hover {
+    border: 2px solid #88ccff;
+  }
+}
