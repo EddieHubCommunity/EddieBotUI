@@ -9,7 +9,10 @@
       list-style: none;
 
       li.logo {
+        height: 100%;
+        display: block;
         margin-right: auto;
+
         .ui.image {
           display: inline-block;
         }
@@ -19,7 +22,7 @@
           font-size: 20px;
         }
       }
-      li {
+      li a {
         cursor: pointer;
         padding: 10px 15px;
       }
