@@ -17,6 +17,9 @@ const Header = () => (
         <li>
           <Link to="/">Community Statistics</Link>
         </li>
+        <li>
+          <Link to="/popular/messages">Most Popular Messages</Link>
+        </li>
       </ul>
     </nav>
   </header>
