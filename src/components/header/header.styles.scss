@@ -7,7 +7,22 @@
       justify-content: flex-end;
       padding: 0;
       list-style: none;
-      li {
+
+      li.logo {
+        height: 100%;
+        display: block;
+        margin-right: auto;
+
+        .ui.image {
+          display: inline-block;
+        }
+        .logo-text {
+          margin-left: 5px;
+          color: black;
+          font-size: 20px;
+        }
+      }
+      li a {
         cursor: pointer;
         padding: 10px 15px;
       }
