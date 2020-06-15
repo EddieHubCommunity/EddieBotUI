@@ -1,0 +1,26 @@
+.community-statistics-page {
+  .statistics-list {
+    display: flex;
+
+    .statistic {
+      color: white;
+
+      &.messages {
+        background: linear-gradient(90deg, rgba(14, 88, 167, 1) 0%, rgba(0, 212, 255, 1) 100%);
+      }
+      &.users {
+        background: linear-gradient(90deg, rgba(226, 38, 21, 1) 17%, rgba(252, 176, 69, 1) 100%);
+      }
+      &.reactions {
+        background: linear-gradient(103deg, rgba(34, 193, 195, 1) 53%, rgba(132, 238, 45, 0.9521475826658788) 100%);
+      }
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .community-statistics-page .statistics-list {
+    flex-direction: column;
+    align-items: center;
+  }
+}
