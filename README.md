@@ -2,7 +2,7 @@
 
 EddieBotUI is the front end application that shows **Eddie Jaoude** Discord Community's public stats.
 
-![EddieBotUI ScreenShot](https://user-images.githubusercontent.com/17693494/91005375-fc0ec100-e593-11ea-957d-b65fb6edb086.png
+![EddieBotUI ScreenShot](https://user-images.githubusercontent.com/17693494/91005375-fc0ec100-e593-11ea-957d-b65fb6edb086.png)
 
 ## Summary
 
