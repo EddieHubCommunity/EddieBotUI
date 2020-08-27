@@ -7,7 +7,7 @@ EddieBotUI is the front end application that shows **Eddie Jaoude** Discord Comm
 ## Summary
 
 - [Getting Started](#getting-started)
-- [Runing the tests](#running-the-tests)
+- [Running the tests](#running-the-tests)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 - [Code of Conduct](#coc)
