@@ -27,3 +27,4 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           firebase-key: ${{ secrets.FIREBASE_KEY }}
+          
