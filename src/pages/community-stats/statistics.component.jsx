@@ -7,7 +7,7 @@ import "./statistics.styles.scss";
  * @param {string} props.icon - Check this link to know the possible values: https://react.semantic-ui.com/elements/icon/
  * @param {any} props.value
  */
-const Statistics = ({ className = "", title, icon, value }) => (
+const Statistics = ({ className = "", title, value }) => (
   <div className={`statistic ${className}`}>
     <span className="title">{title}</span>
     <span className="value">{value}</span>
