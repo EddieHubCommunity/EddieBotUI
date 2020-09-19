@@ -32,6 +32,14 @@ for notes on how to deploy the project on a live system.
   npm install -g gitdocs@next
   ```
 
+- Typescript
+
+  TypeScript is a dependency used in EddieBotUI , so you need to install it first.
+
+  ```bash
+  npm install typescript
+  ```
+
 ### Installing
 
 Use the Node package manager [npm](https://www.npmjs.com/) to install EddieBotUI.

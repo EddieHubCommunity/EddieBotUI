@@ -1,27 +1,32 @@
 .statistic {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   gap: 1px 1px;
-  grid-template-areas: "value value icon" "value value icon" "title title title";
+  grid-template-areas: "value value icon""value value icon""title title title";
   margin: 5px;
-  padding: 10px;
+  padding: 20px 10px;
   border-radius: 10px;
+
+  .title,
+  .value {
+    text-align: center;
+  }
 
   .title {
     align-self: flex-end;
     grid-area: title;
     font-size: 1rem;
   }
+
   .value {
     grid-area: value;
-    color: black;
     font-size: 3rem;
     font-weight: 400;
     line-height: 1em;
     text-transform: uppercase;
-    text-align: center;
   }
+
   i {
     display: block;
     grid-area: icon;
