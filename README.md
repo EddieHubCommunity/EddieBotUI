@@ -1,71 +1,70 @@
-# EddieBotUI
+[![Issues](https://img.shields.io/github/issues/EddieJaoudeCommunity/EddieBotUI?style=plastic)](https://github.com/EddieJaoudeCommunity/EddieBotUI/issues)
+[![GitHub license](https://img.shields.io/github/license/EddieJaoudeCommunity/EddieBotUI?style=plastic)](https://github.com/EddieJaoudeCommunity/EddieBotUI/blob/develop/LICENSE)
 
-EddieBotUI is the front end application that shows **Eddie Jaoude** Discord Community's public stats.
+<p align="center">
+  <a href="https://github.com/EddieJaoudeCommunity/EddieBotUI">
+    <img src="public/eddie-jaoude.png" alt="Logo" width="90">
+  </a>
 
-![EddieBotUI ScreenShot](https://user-images.githubusercontent.com/17693494/91005375-fc0ec100-e593-11ea-957d-b65fb6edb086.png)
+  <h3 align="center">EddieBotUI</h3>
 
-## Summary
+  <p align="center">
+    Eddie Jaoude's Discord bot web application.
+    <br />
+    <a href="https://github.com/EddieJaoudeCommunity/EddieBotUI/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
+    ·
+    <a href="https://github.com/EddieJaoudeCommunity/EddieBotUI/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
+  </p>
+</p>
 
-- [Getting Started](#getting-started)
-- [Running the tests](#running-the-tests)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [Code of Conduct](#coc)
-- [Authors](#authors)
-- [License](#license)
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
+
+The final goal of EddieBotUI is to display all kinds of information about the [Eddie Jaoude Discord community](https://discord.gg/fPss8W9) like users biography, usage stats, badges and more.
+
+### Built With
+
+* [React](https://reactjs.org/)
+* [Firebase](https://firebase.google.com/)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on how to deploy the project on a live system.
+*TBA*
 
 ### Prerequisites
 
-- GitDocs
+*TBA*
 
-  We use [GitDocs](https://gitdocs.netlify.app/) to keep the documentation clean and maintainable.
+### Installation
 
-  In order to run the documentation locally, install `gitdocs@next` on your machine
-
-  ```bash
-  npm install -g gitdocs@next
-  ```
-
-### Installing
-
-Use the Node package manager [npm](https://www.npmjs.com/) to install EddieBotUI.
-
-```bash
-git clone https://github.com/EddieJaoudeCommunity/EddieBotUI.git
-cd EddieBotUI
-npm install
-```
-
-## Running the tests
-
-```bash
-npm run test
-```
-
-## Deployment
+*TBA*
 
 ## Contributing
 
-Please read [CONTRIBUTING](CONTRIBUTING.md) for contributing to this project.
+See [CONTRIBUTING](./CONTRIBUTING.md) for more information.
+
+## Contributors
+
+See the list of
+[contributors](https://github.com/EddieJaoudeCommunity/EddieBotUI/graphs/contributors) involved in this project.
 
 ## CoC
 
-Check out our [Code of Conduct](./CODE_OF_CONDUCT.md)!
-
-## Authors
-
-See the list of
-[contributors](https://github.com/EddieJaoudeCommunity/EddieBotUI/graphs/contributors)
-who participated in this project.
-
-A special thanks to [Billie Thompson](https://github.com/PurpleBooth) who _Provided README Template_.
+Check out our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
 
-This project is licensed under the [MIT](./LICENSE) License.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
