@@ -18,10 +18,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "jest",
     "eject": "react-scripts eject",
-    "lint": "./node_modules/.bin/eslint --ignore-path .gitignore .",
-    "lint:fix": "./node_modules/.bin/eslint --ignore-path .gitignore . --fix"
+    "lint": "./node_modules/.bin/eslint --ignore-path .gitignore ."
   },
   "husky": {
     "hooks": {
@@ -44,7 +43,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.9.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-react": "^7.20.6",
     "husky": "^4.3.0"
