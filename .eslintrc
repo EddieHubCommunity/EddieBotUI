@@ -5,7 +5,7 @@
     "es6": true
   },
   "plugins": ["import"],
-  "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "extends": ["plugin:react/recommended"],
   "parserOptions": {
     "ecmaVersion": 2018,
     "sourceType": "module"

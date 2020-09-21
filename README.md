@@ -19,38 +19,55 @@
 
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+- [About EddieBotUI](#about-eddiebotui)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+- [CoC](#coc)
+- [License](#license)
 
-## About The Project
+## About EddieBotUI
 
-The final goal of EddieBotUI is to display all kinds of information about the [Eddie Jaoude Discord community](https://discord.gg/fPss8W9) like users biography, usage stats, badges and more.
-
-### Built With
-
-* [React](https://reactjs.org/)
-* [Firebase](https://firebase.google.com/)
+EddieBotUI is a web application built to display all kinds of information about the **Eddie Jaoude Discord community** - [click to join](https://discord.gg/fPss8W9) - like users biography, usage stats, badges and more.
 
 ## Getting Started
 
-*TBA*
+Before diving in the getting started, there are couple of prerequisites: make sure to satisfy all of them before proceeding. At the end of this section you will be able to run EddieBotUI on your machine.
 
 ### Prerequisites
 
-*TBA*
+Since this is a [React](https://reactjs.org/)-based project, ensure to have installed **NodeJS** and **npm**. Here you find some useful links:
+
+- [Node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/get-npm)
+
+Of course, you will also need [GIT](https://git-scm.com/).
+
+Once you have these things installed on your machine, you're ready for the next step.
 
 ### Installation
 
-*TBA*
+1. Clone the project repository
+  ```
+  // With SSH
+  git clone git@github.com:EddieJaoudeCommunity/EddieBotUI.git
+  ```
+  ```
+  // With HTTPS
+  git clone https://github.com/EddieJaoudeCommunity/EddieBotUI.git
+  ```
+2. Install dependencies
+  ```
+  npm i
+  ```
+3. Run the application
+  ```
+  npm start
+  ```
+
+You should see the application running on http://localhost:3000/ :rocket:
 
 ## Contributing
 
@@ -58,8 +75,7 @@ See [CONTRIBUTING](./CONTRIBUTING.md) for more information.
 
 ## Contributors
 
-See the list of
-[contributors](https://github.com/EddieJaoudeCommunity/EddieBotUI/graphs/contributors) involved in this project.
+See the list of [contributors](https://github.com/EddieJaoudeCommunity/EddieBotUI/graphs/contributors) involved in this project.
 
 ## CoC
 

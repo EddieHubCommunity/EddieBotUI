@@ -1,9 +1,5 @@
 // eslint-disable-next-line no-undef
 module.exports = {
-  future: {
-    // removeDeprecatedGapUtilities: true,
-    // purgeLayersByDefault: true,
-  },
   purge: [],
   target: 'relaxed',
   prefix: '',
