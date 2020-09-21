@@ -1,5 +1,5 @@
 // Placeholder
-describe("<App />", () => {
+describe("<ComingSoon />", () => {
   it("placeholder", () => {
     expect(true).toBeTruthy();
   });
