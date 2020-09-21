@@ -6,7 +6,6 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "firebase": "^7.14.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
@@ -16,7 +15,6 @@
     "build:style": "tailwind build src/styles/index.css -o src/styles/tailwind.css",
     "build": "react-scripts build",
     "test": "jest",
-    "eject": "react-scripts eject",
     "lint": "./node_modules/.bin/eslint --ignore-path .gitignore ."
   },
   "husky": {
