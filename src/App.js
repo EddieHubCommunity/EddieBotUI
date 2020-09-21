@@ -10,7 +10,7 @@ const App = () => (
   <Container>
     <Row>
       <Col>
-        { process.env.REACT_APP_COMING_SOON === "false" ? <ComingSoon /> : <HomePage /> }
+        { process.env.REACT_APP_COMING_SOON === "true" ? <ComingSoon /> : <HomePage /> }
       </Col>
     </Row>
   </Container>
