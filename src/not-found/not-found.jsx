@@ -20,7 +20,6 @@ const NotFound = ({ history }) => {
                 back to homepage
               </button>
         </div>
-        
       </div>
     </div>
   )
