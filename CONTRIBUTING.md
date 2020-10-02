@@ -35,6 +35,9 @@ There are three types of issue templates:
 By contributing to EddieBotUI, you agree that your contributions will be licensed
 under [MIT license](./LICENSE).
 
+## Need help?
+For **help**, **support** or **questions** please use our [community chat](https://discord.com/invite/jZQs6Wu) on Discord.
+
 ---
 
-For **help**, **support** or **questions** please use our [community chat](https://discord.com/invite/jZQs6Wu) on Discord.
+Special thanks go to the [Draft.js team](https://github.com/facebook/draft-js) which inspired us with this template.
