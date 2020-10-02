@@ -13,7 +13,15 @@
   "rules": {
     "no-console": "warn",
     "no-eval": "error",
-    "import/first": "error"
+    "import/first": "error",
+    "max-len": ["error", 80, 2, {
+      "ignoreUrls": true,
+      "ignoreComments": false,
+      "ignoreRegExpLiterals": true,
+      "ignoreStrings": false,
+      "ignoreTemplateLiterals": false
+    }],
+    "indent": ["error", 2]
   },
   "settings": {
     "react": {
