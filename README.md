@@ -30,7 +30,7 @@
 
 ## About EddieBotUI
 
-EddieBotUI is a web application built to display all kinds of information about the **Eddie Jaoude Discord community** - [click to join](https://discord.gg/fPss8W9) - like users biography, usage stats, badges and more.
+EddieBotUI is a web application built to display all kinds of information about the **Eddie Jaoude Discord community** - [click to join](https://discord.gg/dCUbX7tYUf) - like users biography, usage stats, badges and more.
 
 ## Getting Started
 
