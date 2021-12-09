@@ -36,7 +36,7 @@ By contributing to EddieBotUI, you agree that your contributions will be license
 under [MIT license](./LICENSE).
 
 ## Need help?
-For **help**, **support** or **questions** please use our [community chat](https://discord.com/invite/jZQs6Wu) on Discord.
+For **help**, **support** or **questions** please use our [community chat](http://discord.eddiehub.org) on Discord.
 
 ---
 
